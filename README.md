@@ -1,0 +1,4 @@
+quickRead
+=========
+
+Quickread project extension
